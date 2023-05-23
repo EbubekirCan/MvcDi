@@ -4,7 +4,7 @@ public class Course {
 
     private String name;
 
-    //!!! Getter-Setter
+    //!!! GETTER-SETTER
 
     public String getName() {
         return name;
