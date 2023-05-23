@@ -5,6 +5,6 @@ import com.tpe.domain.Course;
 public class CloudRepo implements Repo{
     @Override
     public void save(Course course) {
-        System.out.println(course.getName() + " dersi buluta kaydediliyor");
+        System.out.println(course.getName() + "DERSİ BULUTA KAYDEDİLİYOR");
     }
 }
