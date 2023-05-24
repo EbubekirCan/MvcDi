@@ -7,5 +7,7 @@ public class LocalRepo implements Repo{
     public void save(Course course) {
         System.out.println("------------------");
         System.out.println(course.getName() + " DERSİ LOCAL'E KAYDEDİLİYOR !!");
+        System.out.println("------------------");
+
     }
 }

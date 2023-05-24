@@ -13,7 +13,11 @@ public class ZoomService implements CourseService {
 
     @Override
     public void teachCourse(Course course){
+        System.out.println("------------------");
+
         System.out.println(course.getName() + " dersi zoom ile anlatiliyor");
+        System.out.println("------------------");
+
     }
 
     @Override

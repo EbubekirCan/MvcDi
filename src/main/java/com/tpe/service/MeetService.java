@@ -13,7 +13,11 @@ public class MeetService implements CourseService {
 
     @Override
     public void teachCourse(Course course){
+        System.out.println("------------------");
+
         System.out.println(course.getName() + " dersi Meet ile anlatiliyor ");
+        System.out.println("------------------");
+
     }
 
     @Override
