@@ -10,6 +10,9 @@ import com.tpe.service.ZoomService;
 public class MyApp {
 
     public static void main(String[] args) {
+        System.out.println("----------------------");
+        System.out.println("----------------------");
+        System.out.println("----------------------");
 
         Course course = new Course();
         course.setName("Adv Java");

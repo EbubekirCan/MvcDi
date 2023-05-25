@@ -2,6 +2,7 @@ package com.tpe.domain;
 
 public class Course {
 
+
     private String name;
 
     //!!! GETTER-SETTER
